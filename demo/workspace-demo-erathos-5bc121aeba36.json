@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "workspace-demo-erathos",
+  "private_key_id": "5bc121aeba36c107cd3c0af0fd3c56f50b480a55",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4oi3mu4OFlztD\nNAkGoRWxYCfJx8I+mr4/NLC/d1Tg6ig6yp4dwoLFPsMRSh4lUQDbw1SKPWTy/T1u\nr0MpV0SGOliQxwI93hVIWIZrCm2em0TfJtCBkiA1plstK59KloBW3eJ8Sfjzfzry\n2mt6bwDzjmVGGNimHMtNeYfXrECU4Qam+3mizWppHwg1qb2L7YcjfWCP9WJiyXNy\noC2xJRLOr4bUJjmY1BPLyxWAxW9xSrHAz4JDkE/QiVigab+GyTYkUxMZvpf2VkAk\nZ0niwHuQhxl683x7SHVrygR/niDRrReHrRQHujX6MSpmkWvRSn7R5PQbnalZZIcH\nfSSmLxOnAgMBAAECggEAVwPD+z57XS3pdaIj8NZhGV/WUKAO2R9nsvUbqZjNTVS9\n0ftk6mSd6eTK3S6fp3mWHHxhrucBWQ1lcvExh13EAzijPdQ0p8CvKhHig7b986Z8\nnmi2EqKyAGbfCJpK78WfRZE76NSZ+fQH7aVnyuNewOpmq1MRY7QlUmWI0mmxZBgd\nbG3S2sMY4ggbwHJ2/TcIKBvbsOjpK2cNJGeZ13OiQrBHwVISDiVQ7KMXPRFh1oOM\n3eFJJU1xBqP1pCp4I1Hdi9YfKiwTKitzpSU+DT13UCjmBslIJQWRKz+VyYJGHR+R\nEhTly1azUgrDsQksYi8mmMFEnj496mmAWPjyKypz3QKBgQDwVZZv3N+CNMyI3ANy\nTt0Cxp893sV+ELUqAhrICHUM89XmSwVwKa9efXBImlK00bue/36JAH5Cx8WCLl0C\noqh99GLx1TeeEUtGuZa+xnQqWw9RoX4nd3IKZ0vqYQW3fq46srDPT5GwTwmtgqZh\nTXHfvjuUUAjx4Zp4eNOvInR3QwKBgQDEqx96v2Txqh8R1cAK2Tjex6WuQAuXlXug\nXEddVkFiHVoRpIKh8CZA4RBGs4K/RAGKld4AMtuPZ/c+hJTsFksbhr27dW1Ijtep\nioCM4Vi9uU01uBYtdL6kIm+/B3MQFW+f9e2Pyiknpq+jv37ujiTtI0lRFD4QbRkR\ncR2P2q1xzQKBgQDTUs6WyeYWPYrjhGHbbxDS0gdPhcSuFs7Vg0g9P4J8wyL//lNn\nzp+PPEkw7dFvgUOyiQGgQbjDy5kV4OKT4Ka7KdqevlbLPHWuWJ3+Xc3jOHJ92rxs\nw5CZKT8NdgZq1I8qudjSUSrPlo/x64GU6V4J2OHWhZF37mG/MK8hvfAetQKBgD8R\nxbmekWeyr94PV1PjT4qaKfbUkSMejBPkI/q5w6QMV6sav83g7tOVmZuiy8Y8r+Xa\no+QaazD1HWQOLpf7mkCMmGH6iX5gWKcFRK5pQgUt3KXikDIpo02NwZpYcDzzMuXw\nfyvCoCoYGXGA4trr+MmXrFZ1EGZCJmzigqF0dnTtAoGBAMUiqCVti2H/gFlaKMDC\nnYV9V856q2SB3wDFfutu/0NfHEbJ4wPjlIOMj7vi0VnjK33Kkc7+VlXtWu5YEWoJ\n5IdSAEJQmFvAHFetiitcZWiLtOGWEejaTi2CyJpRoaFT3gxg7UP8Y8+/WnL4A6E+\nztvbSXFjxEHsPNbnVhvpt5sd\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-demo@workspace-demo-erathos.iam.gserviceaccount.com",
+  "client_id": "106382314573910487813",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-demo%40workspace-demo-erathos.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

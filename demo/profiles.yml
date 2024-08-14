@@ -1,0 +1,14 @@
+demo:
+  outputs:
+    dev:
+      dataset: dbt
+      job_execution_timeout_seconds: 300
+      job_retries: 1
+      keyfile: C:\Users\MLSN\OneDrive - MNTech\CURSOS\Udemy\Do 0 ao Data Warehouse com Erathos, dbt e BigQuery\demo\workspace-demo-erathos-5bc121aeba36.json
+      location: us-east4
+      method: service-account
+      priority: interactive
+      project: workspace-demo-erathos
+      threads: 2
+      type: bigquery
+  target: dev

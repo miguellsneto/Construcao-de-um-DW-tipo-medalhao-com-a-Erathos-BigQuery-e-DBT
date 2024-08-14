@@ -1,0 +1,8 @@
+models:
+  - name: daily metrics
+    description: Métricas diárias  vindas da tabela de orders
+    columns:
+      - name: order_date
+        descripitiom: Data referente ao dia em que foi realizada
+      - name: total_orders
+        descripitiom: Valor total das vendas

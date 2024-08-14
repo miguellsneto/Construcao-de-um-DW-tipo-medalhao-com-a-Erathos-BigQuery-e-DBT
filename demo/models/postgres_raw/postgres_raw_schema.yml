@@ -1,0 +1,13 @@
+sources:
+  - name: postgres_raw
+    description: Este datset é alimentado pela plataforma de movimentação de dados, e busca informações do banco Postegres configurado para este curso.
+    tables:
+      - name: orders
+        tags: ["Postgres"]
+      
+      - name: payments
+        tags: ["Postgres"]
+      
+      - name: services
+        tags: ["Postgres"]
+        
